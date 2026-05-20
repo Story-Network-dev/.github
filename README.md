@@ -8,7 +8,7 @@ anything but doing schoolwork i guess.
 ---
 
 ## About
-Story Network™ is an organization founded in 2024 that specializes in custom website development and digital tools.
+Story Network™ is an organization founded in 2024 that specializes in UBG Websites/Tools.
 
 ---
 
