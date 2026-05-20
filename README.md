@@ -1,2 +1,2 @@
-# Intro
-An Introduction to Story Network!
+# Story Network™
+
