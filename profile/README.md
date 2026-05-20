@@ -3,7 +3,7 @@
 anything but doing schoolwork i guess.
 
 
-![Banner](assets/snbanner.png)
+![Banner](../assets/snbanner.png)
 
 ---
 
