@@ -2,7 +2,6 @@
 
 anything but doing schoolwork i guess.
 
----
 
 ![Banner](assets/snbanner.png)
 
